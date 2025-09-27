@@ -1,4 +1,4 @@
-# Student Result Management System (Jupyter Notebook)
+# Student Result Management System
 
 # Store student data in a list
 students = []
